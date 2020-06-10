@@ -1,7 +1,7 @@
 <h1> Welcome to TestGroup1! </h1>
 
 <p>Welcome to TestGroup1! This is an example page for you to see how you can set up your blurb for your group's folder. 
-When formatting this page, if you want something to look fancy, try XML to add pictures and fancier text.</p>
+When formatting this page, if you want something to look fancy, try XML to add pictures and fancier text.  You'll need this page to be called README.md for that to work.</p>
 
 <p> This README file is a good place to put general information you want to share with your students about how your group is organizing its
 GitHub repo.  You may want to put any special rules and directions here, along with some examples of fun code you're planning to work on 
@@ -12,4 +12,6 @@ individual folders.  Some fun things to try on GitHub are making sure you can fo
 to check out the git and github guide advertised at the top of each repo page.</p>
 
 <h5> For adding photos, you'll need them to be uploaded to some website first.  I'm using our logo as an example </h5>
-<img src="https://coders.mtu.edu/wp-content/uploads/2020/05/cccLogo-transparent-01.png">
+<p align = "center">
+<img src="https://coders.mtu.edu/wp-content/uploads/2020/05/cccLogo-transparent-01.png" width=50% height=50% align="center">
+</p>
