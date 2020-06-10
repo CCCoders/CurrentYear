@@ -1,0 +1,4 @@
+Welcome to TestGroup1.  The teachers are <yourNameHere> and we'll be learning all about Python this semester.
+Hold onto your hats because it's going to be a fun year.  We'll start by getting comfortable with printing
+things out and later we'll be making games.  If things go really well, we might even start programming a couple
+of robots.
